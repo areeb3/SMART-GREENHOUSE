@@ -8,6 +8,7 @@
 
 • Regular temperature display 
 
+
 Future Plans : 
 
 • Create a dynamic application so that user can monitor the greenhouse remotely
